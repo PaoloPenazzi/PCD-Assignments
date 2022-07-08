@@ -9,7 +9,7 @@ repositories {
 dependencies {
     implementation 'io.vertx:vertx-core:4.3.1'
     implementation 'io.vertx:vertx-web:4.3.1'
-    implementation 'io.vertx:vertx-web-client:4.3.1'
+    implementation 'io.vertx:vertx-web-client:4.3.2.1'
     implementation 'io.reactivex.rxjava3:rxjava:3.1.5'
     implementation 'com.github.javaparser:javaparser-symbol-solver-core:3.24.2'
     testImplementation 'junit:junit:4.13.2'
