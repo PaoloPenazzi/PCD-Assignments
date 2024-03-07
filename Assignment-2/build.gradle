@@ -14,7 +14,7 @@ dependencies {
     implementation 'com.github.javaparser:javaparser-symbol-solver-core:3.25.3'
     testImplementation 'junit:junit:4.13.2'
     implementation 'com.google.guava:guava:32.0.1-jre'
-    implementation 'hu.webarticum:tree-printer:3.1.0'
+    implementation 'hu.webarticum:tree-printer:3.2.0'
 }
 
 application {
