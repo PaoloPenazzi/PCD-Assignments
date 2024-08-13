@@ -10,7 +10,7 @@ dependencies {
     implementation 'io.vertx:vertx-core:4.4.4'
     implementation 'io.vertx:vertx-web:4.4.4'
     implementation 'io.vertx:vertx-web-client:4.4.4'
-    implementation 'io.reactivex.rxjava3:rxjava:3.1.6'
+    implementation 'io.reactivex.rxjava3:rxjava:3.1.9'
     implementation 'com.github.javaparser:javaparser-symbol-solver-core:3.25.3'
     testImplementation 'junit:junit:4.13.2'
     implementation 'com.google.guava:guava:32.0.1-jre'
